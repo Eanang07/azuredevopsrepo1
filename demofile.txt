@@ -1,2 +1,1 @@
-This is the demo file for testing git commands
-more testing
+This is the demo file for testing git
